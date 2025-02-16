@@ -130,7 +130,7 @@ function App() {
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
             style={{
-              backgroundImage: 'url("/assets/images/background.png")', // Add your background image
+              backgroundImage: 'url("./assets/images/background.png")', // Add your background image
               backgroundBlendMode: 'overlay'
             }}
           />
@@ -140,7 +140,7 @@ function App() {
           <div className="container mx-auto px-6 h-full flex items-center relative z-10">
             <div className="flex flex-col md:flex-row items-center justify-center gap-12 w-full">
               <img
-                src="/assets/images/tanmay.png"
+                src="./assets/images/tanmay.png"
                 alt="Tanmay Singh"
                 className="w-56 h-56 object-cover rounded-full border-4 border-white/50 shadow-2xl 
                            transform hover:scale-105 transition-transform duration-300
@@ -234,7 +234,7 @@ function App() {
                                 transition-all duration-300 flex flex-col transform hover:-translate-y-1">
                     <div className="relative">
                       <img
-                        src="/assets/images/cs.jpg"
+                        src="./assets/images/cs.jpg"
                         alt="Case Study 1"
                         className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-500"
                       />
@@ -264,7 +264,7 @@ function App() {
                                 transition-all duration-300 flex flex-col transform hover:-translate-y-1">
                     <div className="relative">
                       <img
-                        src="/assets/images/cs2.jpg"
+                        src="./assets/images/cs2.jpg"
                         alt="Case Study 2"
                         className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-500"
                       />
@@ -294,7 +294,7 @@ function App() {
                                 transition-all duration-300 flex flex-col transform hover:-translate-y-1">
                     <div className="relative">
                       <img
-                        src="/assets/images/cs3.png"
+                        src="./assets/images/cs3.png"
                         alt="Case Study 3"
                         className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-500"
                       />
@@ -324,7 +324,7 @@ function App() {
                                 transition-all duration-300 flex flex-col transform hover:-translate-y-1">
                     <div className="relative">
                       <img
-                        src="/assets/images/cs4.png"
+                        src="./assets/images/cs4.png"
                         alt="Case Study 4"
                         className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-500"
                       />
@@ -354,7 +354,7 @@ function App() {
                                 transition-all duration-300 flex flex-col transform hover:-translate-y-1">
                     <div className="relative">
                       <img
-                        src="/assets/images/cs5.png"
+                        src="./assets/images/cs5.png"
                         alt="Case Study 5"
                         className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-500"
                       />
@@ -384,7 +384,7 @@ function App() {
                                 transition-all duration-300 flex flex-col transform hover:-translate-y-1">
                     <div className="relative">
                       <img
-                        src="/assets/images/cs6.png"
+                        src="./assets/images/cs6.png"
                         alt="Case Study 6"
                         className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-500"
                       />
@@ -522,7 +522,7 @@ function App() {
                       <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
                         <div className="flex items-center gap-4 mb-4">
                           <img 
-                            src="/assets/images/vidyut.png" 
+                            src="./assets/images/vidyut.png" 
                             alt="VidyutTech Logo" 
                             className="w-12 h-12 object-contain rounded-lg"
                           />
@@ -555,7 +555,7 @@ function App() {
                       <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
                         <div className="flex items-center gap-4 mb-4">
                           <img 
-                            src="/assets/images/fiinlo.png" 
+                            src="./assets/images/fiinlo.png" 
                             alt="Fiinlo Logo" 
                             className="w-12 h-12 object-contain rounded-lg"
                           />
@@ -584,7 +584,7 @@ function App() {
                       <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
                         <div className="flex items-center gap-4 mb-4">
                           <img 
-                            src="/assets/images/pmi.png" 
+                            src="./assets/images/pmi.png" 
                             alt="PMI Logo" 
                             className="w-12 h-12 object-contain rounded-lg"
                           />
@@ -613,7 +613,7 @@ function App() {
                       <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
                         <div className="flex items-center gap-4 mb-4">
                           <img 
-                            src="/assets/images/uppturn.png" 
+                            src="./assets/images/uppturn.png" 
                             alt="Uppturn Logo" 
                             className="w-12 h-12 object-contain rounded-lg"
                           />
